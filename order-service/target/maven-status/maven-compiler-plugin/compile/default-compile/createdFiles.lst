@@ -1,0 +1,15 @@
+com\vmoscalciuc\orderservice\controller\OrderController.class
+com\vmoscalciuc\orderservice\model\Order.class
+com\vmoscalciuc\orderservice\model\OrderLineItems$OrderLineItemsBuilder.class
+com\vmoscalciuc\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\vmoscalciuc\orderservice\OrderServiceApplication.class
+com\vmoscalciuc\orderservice\dto\OrderRequest$OrderRequestBuilder.class
+com\vmoscalciuc\orderservice\event\OrderPlacedEvent.class
+com\vmoscalciuc\orderservice\model\OrderLineItems.class
+com\vmoscalciuc\orderservice\repository\OrderRepository.class
+com\vmoscalciuc\orderservice\dto\OrderLineItemsDto.class
+com\vmoscalciuc\orderservice\dto\InventoryResponse.class
+com\vmoscalciuc\orderservice\model\Order$OrderBuilder.class
+com\vmoscalciuc\orderservice\dto\OrderRequest.class
+com\vmoscalciuc\orderservice\config\WebClientConfig.class
+com\vmoscalciuc\orderservice\service\OrderService.class

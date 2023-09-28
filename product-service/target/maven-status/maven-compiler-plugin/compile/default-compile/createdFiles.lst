@@ -1,0 +1,10 @@
+com\vmoscalciuc\productservice\repository\ProductRepository.class
+com\vmoscalciuc\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\vmoscalciuc\productservice\controller\ProductController.class
+com\vmoscalciuc\productservice\dto\ProductRequest.class
+com\vmoscalciuc\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\vmoscalciuc\productservice\ProductServiceApplication.class
+com\vmoscalciuc\productservice\model\Product.class
+com\vmoscalciuc\productservice\model\Product$ProductBuilder.class
+com\vmoscalciuc\productservice\service\ProductService.class
+com\vmoscalciuc\productservice\dto\ProductResponse.class

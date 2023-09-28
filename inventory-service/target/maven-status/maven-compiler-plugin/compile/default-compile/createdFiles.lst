@@ -1,0 +1,7 @@
+com\vmoscalciuc\inventoryservice\controller\InventoryController.class
+com\vmoscalciuc\inventoryservice\service\InventoryService.class
+com\vmoscalciuc\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\vmoscalciuc\inventoryservice\dto\InventoryResponse.class
+com\vmoscalciuc\inventoryservice\model\Inventory.class
+com\vmoscalciuc\inventoryservice\repository\InventoryRepository.class
+com\vmoscalciuc\inventoryservice\InventoryServiceApplication.class

@@ -1,0 +1,11 @@
+C:\Users\VitalicPC\Desktop\microservices-new\order-service\src\main\java\com\vmoscalciuc\orderservice\dto\OrderRequest.java
+C:\Users\VitalicPC\Desktop\microservices-new\order-service\src\main\java\com\vmoscalciuc\orderservice\model\Order.java
+C:\Users\VitalicPC\Desktop\microservices-new\order-service\src\main\java\com\vmoscalciuc\orderservice\dto\InventoryResponse.java
+C:\Users\VitalicPC\Desktop\microservices-new\order-service\src\main\java\com\vmoscalciuc\orderservice\dto\OrderLineItemsDto.java
+C:\Users\VitalicPC\Desktop\microservices-new\order-service\src\main\java\com\vmoscalciuc\orderservice\config\WebClientConfig.java
+C:\Users\VitalicPC\Desktop\microservices-new\order-service\src\main\java\com\vmoscalciuc\orderservice\controller\OrderController.java
+C:\Users\VitalicPC\Desktop\microservices-new\order-service\src\main\java\com\vmoscalciuc\orderservice\OrderServiceApplication.java
+C:\Users\VitalicPC\Desktop\microservices-new\order-service\src\main\java\com\vmoscalciuc\orderservice\service\OrderService.java
+C:\Users\VitalicPC\Desktop\microservices-new\order-service\src\main\java\com\vmoscalciuc\orderservice\event\OrderPlacedEvent.java
+C:\Users\VitalicPC\Desktop\microservices-new\order-service\src\main\java\com\vmoscalciuc\orderservice\repository\OrderRepository.java
+C:\Users\VitalicPC\Desktop\microservices-new\order-service\src\main\java\com\vmoscalciuc\orderservice\model\OrderLineItems.java
