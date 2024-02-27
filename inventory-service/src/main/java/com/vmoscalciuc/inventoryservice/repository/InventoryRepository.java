@@ -8,5 +8,11 @@ import java.util.*;
 
 public interface InventoryRepository extends JpaRepository<Inventory,Long> {
 
-    Optional<Inventory> findBySkuCodeIn(List<String> skuCode);
+    Optional<Inventory> findByProductIdIn(List<String> productId);
+
+    Optional<Inventory> findByProductId(String productId);
+
+    @Modifying
+    @Query("update Inventory i set i.quantity=i.quantity-:quantity where i.productId=:productId")
+    void updateQuantityOfProducts(String productId, Integer quantity);
 }

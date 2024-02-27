@@ -8,7 +8,6 @@ import java.math.*;
 @AllArgsConstructor
 @NoArgsConstructor
 public class OrderLineItemsDto {
-    private String skuCode;
-    private BigDecimal price;
+    private String productId;
     private Integer quantity;
 }

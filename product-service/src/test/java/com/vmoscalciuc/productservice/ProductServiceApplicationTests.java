@@ -1,6 +1,5 @@
 package com.vmoscalciuc.productservice;
 
-import com.fasterxml.jackson.core.*;
 import com.fasterxml.jackson.databind.*;
 import com.vmoscalciuc.productservice.dto.*;
 import com.vmoscalciuc.productservice.repository.*;
@@ -51,7 +50,7 @@ class ProductServiceApplicationTests {
     void shouldCreateProduct() throws Exception {
         ProductRequest productRequest = getProductRequest();
         String productRequestString = objectMapper.writeValueAsString(productRequest);
-        mockMvc.perform(MockMvcRequestBuilders.post("/api/product")
+        mockMvc.perform(MockMvcRequestBuilders.post("/api/product/createHeadphones")
                 .contentType(MediaType.APPLICATION_JSON)
                 .content(productRequestString))
                 .andExpect(status().isCreated());
@@ -61,7 +60,7 @@ class ProductServiceApplicationTests {
     private ProductRequest getProductRequest() {
         return ProductRequest.builder()
                 .name("iphone 13")
-                .description("iphone 13")
+                .brand("apple")
                 .price(BigDecimal.valueOf(1200))
                 .build();
     }

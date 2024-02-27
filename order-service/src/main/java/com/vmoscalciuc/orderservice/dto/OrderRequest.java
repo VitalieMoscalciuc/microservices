@@ -11,4 +11,6 @@ import java.util.*;
 @NoArgsConstructor
 public class OrderRequest {
     private List<OrderLineItemsDto> orderLineItemsDtoList;
+    private String userEmail;
+    private String userAddress;
 }

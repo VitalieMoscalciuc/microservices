@@ -7,21 +7,32 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="delivery-service" />
+        <module name="inventory-com.vmoscalciuc.deliveryservice.service" />
         <module name="api-gateway" />
         <module name="product-service" />
-        <module name="inventory-service" />
         <module name="order-service" />
-        <module name="discovery-server" />
-        <module name="notification-service" />
+        <module name="notification-com.vmoscalciuc.deliveryservice.service" />
+        <module name="discovery-service" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="discovery-server" target="17" />
+      <module name="inventory-service" target="17" />
+      <module name="notification-service" target="17" />
+      <module name="product-com.vmoscalciuc.deliveryservice.service" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="api-gateway" options="-parameters" />
+      <module name="delivery-service" options="-parameters" />
       <module name="discovery-server" options="-parameters" />
+      <module name="discovery-service" options="-parameters" />
+      <module name="inventory-com.vmoscalciuc.deliveryservice.service" options="-parameters" />
       <module name="inventory-service" options="-parameters" />
       <module name="microservices-new" options="-parameters" />
+      <module name="notification-com.vmoscalciuc.deliveryservice.service" options="-parameters" />
       <module name="notification-service" options="-parameters" />
       <module name="order-service" options="-parameters" />
       <module name="product-service" options="-parameters" />

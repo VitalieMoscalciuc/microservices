@@ -26,7 +26,9 @@ public class OrderController {
     public CompletableFuture<String> placeOrder(@RequestBody OrderRequest orderRequest){
         return CompletableFuture.supplyAsync(()->orderService.placeOrder(orderRequest));
     }
-    public CompletableFuture<String> fallbackMethod(OrderRequest orderRequest,RuntimeException runtimeException){
-        return CompletableFuture.supplyAsync(()->"Oops, something went wrong, please try again after some time!");
+    public CompletableFuture<String> fallbackMethod(OrderRequest orderRequest, RuntimeException runtimeException) {
+        System.out.println("FallbackMethod triggered due to exception: " + runtimeException.getMessage());
+        runtimeException.printStackTrace(); // Print the stack trace for detailed information
+        return CompletableFuture.supplyAsync(() -> "Oops, something went wrong, please try again after some time!");
     }
 }

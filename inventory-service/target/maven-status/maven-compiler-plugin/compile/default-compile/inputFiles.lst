@@ -1,6 +1,10 @@
-C:\Users\VitalicPC\Desktop\microservices-new\inventory-service\src\main\java\com\vmoscalciuc\inventoryservice\model\Inventory.java
-C:\Users\VitalicPC\Desktop\microservices-new\inventory-service\src\main\java\com\vmoscalciuc\inventoryservice\dto\InventoryResponse.java
-C:\Users\VitalicPC\Desktop\microservices-new\inventory-service\src\main\java\com\vmoscalciuc\inventoryservice\InventoryServiceApplication.java
-C:\Users\VitalicPC\Desktop\microservices-new\inventory-service\src\main\java\com\vmoscalciuc\inventoryservice\repository\InventoryRepository.java
-C:\Users\VitalicPC\Desktop\microservices-new\inventory-service\src\main\java\com\vmoscalciuc\inventoryservice\service\InventoryService.java
-C:\Users\VitalicPC\Desktop\microservices-new\inventory-service\src\main\java\com\vmoscalciuc\inventoryservice\controller\InventoryController.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\inventory-service\src\main\java\com\vmoscalciuc\inventoryservice\dto\InventoryResponse.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\inventory-service\src\main\java\com\vmoscalciuc\inventoryservice\event\OrderPlacedEvent.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\inventory-service\src\main\java\com\vmoscalciuc\inventoryservice\exception\ProductNotFoundException.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\inventory-service\src\main\java\com\vmoscalciuc\inventoryservice\repository\InventoryRepository.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\inventory-service\src\main\java\com\vmoscalciuc\inventoryservice\service\InventoryService.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\inventory-service\src\main\java\com\vmoscalciuc\inventoryservice\model\Inventory.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\inventory-service\src\main\java\com\vmoscalciuc\inventoryservice\controller\InventoryController.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\inventory-service\src\main\java\com\vmoscalciuc\inventoryservice\dto\ProductInfo.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\inventory-service\src\main\java\com\vmoscalciuc\inventoryservice\exception\ProductNotFoundInInventoryException.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\inventory-service\src\main\java\com\vmoscalciuc\inventoryservice\InventoryServiceApplication.java

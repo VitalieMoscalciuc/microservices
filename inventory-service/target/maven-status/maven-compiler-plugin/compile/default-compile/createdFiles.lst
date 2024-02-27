@@ -1,7 +1,11 @@
+com\vmoscalciuc\inventoryservice\exception\ProductNotFoundInInventoryException.class
+com\vmoscalciuc\inventoryservice\dto\InventoryResponse.class
+com\vmoscalciuc\inventoryservice\repository\InventoryRepository.class
+com\vmoscalciuc\inventoryservice\exception\ProductNotFoundException.class
+com\vmoscalciuc\inventoryservice\event\OrderPlacedEvent.class
 com\vmoscalciuc\inventoryservice\controller\InventoryController.class
 com\vmoscalciuc\inventoryservice\service\InventoryService.class
+com\vmoscalciuc\inventoryservice\dto\ProductInfo.class
 com\vmoscalciuc\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
-com\vmoscalciuc\inventoryservice\dto\InventoryResponse.class
 com\vmoscalciuc\inventoryservice\model\Inventory.class
-com\vmoscalciuc\inventoryservice\repository\InventoryRepository.class
 com\vmoscalciuc\inventoryservice\InventoryServiceApplication.class

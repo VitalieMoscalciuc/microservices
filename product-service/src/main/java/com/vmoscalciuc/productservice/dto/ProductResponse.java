@@ -13,6 +13,6 @@ public class ProductResponse {
     @Id
     private String id;
     private String name;
-    private String description;
+    private String brand;
     private BigDecimal price;
 }

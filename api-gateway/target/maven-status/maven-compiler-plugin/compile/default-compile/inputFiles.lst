@@ -1,2 +1,18 @@
-C:\Users\VitalicPC\Desktop\microservices-new\api-gateway\src\main\java\com\vmoscalciuc\apigateway\config\SecurityConfig.java
-C:\Users\VitalicPC\Desktop\microservices-new\api-gateway\src\main\java\com\vmoscalciuc\apigateway\ApiGatewayApplication.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\api-gateway\src\main\java\com\vmoscalciuc\apigateway\config\security\AuthenticationManager.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\api-gateway\src\main\java\com\vmoscalciuc\apigateway\controller\UserController.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\api-gateway\src\main\java\com\vmoscalciuc\apigateway\dto\LoginRequest.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\api-gateway\src\main\java\com\vmoscalciuc\apigateway\mapper\MapperConfig.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\api-gateway\src\main\java\com\vmoscalciuc\apigateway\ApiGatewayApplication.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\api-gateway\src\main\java\com\vmoscalciuc\apigateway\dto\RegistrationRequest.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\api-gateway\src\main\java\com\vmoscalciuc\apigateway\enums\Role.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\api-gateway\src\main\java\com\vmoscalciuc\apigateway\dto\RegistrationResponse.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\api-gateway\src\main\java\com\vmoscalciuc\apigateway\service\UserDetailsServiceImpl.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\api-gateway\src\main\java\com\vmoscalciuc\apigateway\exception\AuthenticationException.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\api-gateway\src\main\java\com\vmoscalciuc\apigateway\model\UserEntity.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\api-gateway\src\main\java\com\vmoscalciuc\apigateway\repository\UserRepository.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\api-gateway\src\main\java\com\vmoscalciuc\apigateway\config\security\SecurityContextRepository.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\api-gateway\src\main\java\com\vmoscalciuc\apigateway\exception\UserAlreadyExistsException.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\api-gateway\src\main\java\com\vmoscalciuc\apigateway\config\security\JwtUtil.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\api-gateway\src\main\java\com\vmoscalciuc\apigateway\config\security\SecurityConfig.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\api-gateway\src\main\java\com\vmoscalciuc\apigateway\service\UserService.java
+C:\Users\VitalicPC\Desktop\teza de licenta\microservices-teza\api-gateway\src\main\java\com\vmoscalciuc\apigateway\dto\LoginResponse.java

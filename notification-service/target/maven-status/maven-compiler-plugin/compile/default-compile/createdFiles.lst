@@ -1,2 +1,4 @@
 com\vmoscalciuc\event\OrderPlacedEvent.class
+com\vmoscalciuc\service\NotificationService.class
+com\vmoscalciuc\dto\ProductInfo.class
 com\vmoscalciuc\NotificationServiceApplication.class

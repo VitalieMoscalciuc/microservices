@@ -10,6 +10,6 @@ import java.math.*;
 @NoArgsConstructor
 public class ProductRequest {
     private String name;
-    private String description;
+    private String brand;
     private BigDecimal price;
 }
